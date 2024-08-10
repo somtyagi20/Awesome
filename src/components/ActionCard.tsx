@@ -50,9 +50,7 @@ export default function ActionCard() {
           </TouchableOpacity>
           <TouchableOpacity
             onPress={() =>
-              openWebsite(
-                'https://jahabeebs.hashnode.dev/end-to-end-testing-an-ai-application-with-playwright-and-github-actions',
-              )
+              openWebsite('https://in.linkedin.com/in/somnath-tyagi-16473b1ab')
             }>
             <Text style={styles.footerText}>Follow Me</Text>
           </TouchableOpacity>

@@ -10,7 +10,7 @@ export default function ElevatedCards() {
         style={styles.container}
         showsHorizontalScrollIndicator={false}>
         <View style={[styles.card, styles.cardGreen]}>
-          <Text>Yeah</Text>
+          <Text>Tap</Text>
         </View>
         <View style={[styles.card, styles.cardBlue]}>
           <Text>Me</Text>
@@ -22,7 +22,7 @@ export default function ElevatedCards() {
           <Text>Scroll</Text>
         </View>
         <View style={[styles.card, styles.cardRed]}>
-          <Text>Tap</Text>
+          <Text>Yr</Text>
         </View>
       </ScrollView>
     </View>
